@@ -2,9 +2,8 @@ import streamlit as st
 
 
 def main():
-    st.markdown("## AirMusic - ")
-    st.markdown("""## AirMusic - The Perfect Companion for Music Practice
-
+    st.markdown("## AirMusic - The Perfect Companion for Music Practice")
+    st.markdown("""
 Statement:
 Learning music is a long journey, good practice habits are essential.
 
