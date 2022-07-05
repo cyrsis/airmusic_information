@@ -21,8 +21,25 @@ Simply click start and play, and your results are returned instantly.
 
 Features:
 - Family report for parents;
+    point out the error note with red color.
 - Opera Track reports for multiple instruments;
+    
 - Special Read-out notes function for eyesight impaired users.
+    Enlargement function
+
+What do the app going to test/pratice:
+- Testing the pitch and beat -> comparing the error between the samples and the users' recording.
+- Using machine to generate the samples.
+For instruments examination/grading test:
+- The users need to learn from the professional musicians samples
+- The comparasion samples come from professional musicians with repected to the different instruments.
+Remark: The musicial notation (symbol) may cause .
+
+Method:
+- Comparing the sound wave by subtracting the samples data and the users' recording data.
+
+REMARKS:
+- Starting at a quiet environment.
 
 """)
 
