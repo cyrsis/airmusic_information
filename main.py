@@ -77,7 +77,8 @@ Features:
 - The qualities of different instruments will produce different outputs (e.g. pitch).
 - Determining the rhythms of the performance in the report. Testing will be, for instant, in every half-second (might be adjust for better result). 
 
-##### > REMARKS:
+> REMARKS:
+
 - Starting at a quiet environment. Assume these do not exist external noise.
 - All calculations and testings may not be confirmed before the demo. 
 
