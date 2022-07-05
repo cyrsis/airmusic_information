@@ -2,10 +2,14 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 
+st.set_page_config(
+    page_title="AirMusic ML-Core", page_icon="📊", initial_sidebar_state="expanded"
+)
+
 st.markdown("### AirMusic ")
 st.markdown("###### The Perfect Companion for Music Practice ")
 st.markdown('---')
-st.markdown('###3 Statement:')
+st.markdown('#### Statement:')
 st.markdown("""
 Learning music is a long journey, good practice habits are essential.
 
@@ -31,7 +35,7 @@ Features:
 - Special Read-out notes function for eyesight impaired users.
     Enlargement function
 
-#### Userinterface:
+##### User Interface:
 1, Choosing the users' instrument.
 2, Click the 'START' and then give a few preparatory beat (預備拍).
 3, User can start playing the instrument.
@@ -39,13 +43,13 @@ Features:
 - Adding the restart and stop buttoms during the performence.
 - Adding enlarge function.
 
-#### Report template:
+#####  Report template:
 - The name of the piece/song.
 - Number of error notes (with ratio/percentage). 
 - Ranking amount the overall users (a. cheating cases excluded. b. ranking upload will be optional.).
 - Recommeding the practice pieces for the users' weaknesses (Detect the weaknesses?). 
 
-#### What do the app going to test/pratice:
+##### What do the app going to test/pratice:
 (1) For normal pieces:
 - Testing the pitch and beat -> comparing the error between the samples and the users' recording.
 - Using machine to generate the samples.
