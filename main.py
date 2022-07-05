@@ -24,8 +24,6 @@ Features:
 - Opera Track reports for multiple instruments;
 - Special Read-out notes function for eyesight impaired users.
 
-hhvh
-rerere
 """)
 
 
