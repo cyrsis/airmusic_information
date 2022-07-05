@@ -36,10 +36,10 @@ Features:
     Enlargement function
 
 ##### User Interface:
-1, Choosing the users' instrument.
-2, Click the 'START' and then give a few preparatory beat (預備拍).
-3, User can start playing the instrument.
-4, Generate report for the performance.
+1. Choosing the users' instrument.
+2. Click the 'START' and then give a few preparatory beat (預備拍).
+3. User can start playing the instrument.
+4. Generate report for the performance.
 - Adding the restart and stop buttoms during the performence.
 - Adding enlarge function.
 
@@ -56,7 +56,7 @@ Features:
 
 Method for (1):
 - Normalizing the autio data. Detect the outliers, then reject them from the normalized stat.
-- Comparing the sound wave by subtracting the samples digitized data and the users' recording digitized data, then taking absolute value.
+- Comparing the sound wave by subtracting the samples digitized data and the users' recording digitized data, then taking absolute value. 
 If the value is smaller then a critical value (will be adjusted for better result), accept it. Otherwise, point out the error note with red color.
 - Denoise (adding the background noise to the samples or autoencoder (not perfer))
 
@@ -74,7 +74,7 @@ If the value is smaller then a critical value (will be adjusted for better resul
 - The qualities of different instruments will produce different outputs (e.g. pitch).
 - Determining the rhythms of the performance in the report. Testing will be, for instant, in every half-second (might be adjust for better result.). 
 
-REMARKS:
+#### REMARKS:
 - Starting at a quiet environment. Assume these do not exist external noise.
 - All calculations and testings may not be confirmed before the demo. 
 
