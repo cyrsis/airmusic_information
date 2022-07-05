@@ -38,7 +38,7 @@ Userinterface:
 Report template:
 - The name of the piece/song.
 - Number of error notes (with ratio/percentage). 
-- Ranking amount the overall users.
+- Ranking amount the overall users (a. cheating cases excluded. b. ranking upload will be optional.).
 - Recommeding the practice pieces for the users' weaknesses (Detect the weaknesses?). 
 
 What do the app going to test/pratice:
@@ -47,9 +47,9 @@ What do the app going to test/pratice:
 - Using machine to generate the samples.
 
 Method for (1):
-- Normalizing the autio data
+- Normalizing the autio data. Detect the outliers, then reject them from the normalized stat.
 - Comparing the sound wave by subtracting the samples digitized data and the users' recording digitized data, then taking absolute value.
-If the value is smaller then a critical value, accept it. Otherwise, point out the error note with red color.
+If the value is smaller then a critical value (will be adjusted for better result), accept it. Otherwise, point out the error note with red color.
 - Denoise (adding the background noise to the samples or autoencoder (not perfer))
 
 (2) For instruments examination/grading test:
@@ -59,11 +59,16 @@ Remark: The musicial notation (symbol) may cause additional error.
 
 Method for (2):
 - Comparing the sound wave by subtracting the samples digitized data and the users' recording digitized data, then taking absolute value.
-If the value is smaller then a critical value, accept it. Otherwise, point out the error note with red color.
+If the value is smaller then a critical value (will be adjusted for better result), accept it. Otherwise, point out the error note with red color.
 - Denoise (adding the background noise to the samples or autoencoder (not perfer))
+
+(3) Other factors
+- The qualities of different instruments will produce different outputs (e.g. pitch).
+- Determining the rhythms of the performance in the report. Testing will be, for instant, in every half-second (might be adjust for better result.). 
 
 REMARKS:
 - Starting at a quiet environment. Assume these do not exist external noise.
+- All calculations and testings may not be confirmed before the demo. 
 
 """)
 
