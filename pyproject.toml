@@ -9,6 +9,7 @@ python = "^3.8"
 music21= "5.7.2"
 streamlit = "^1.10.0"
 watchdog = "^2.1.9"
+Flask = "^2.1.2"
 
 [tool.poetry.dev-dependencies]
 
