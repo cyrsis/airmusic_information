@@ -32,32 +32,37 @@ Userinterface:
 2, Click the START and then give a few preparatory beat (預備拍).
 3, User can start playing the instrument.
 4, Generate report for the performance.
+- Adding the restart and stop buttoms during the performence.
 
 Report template:
 - The name of the piece/song.
-- Number of error notes (with ratio/percentage).
+- Number of error notes (with ratio/percentage). 
 - Ranking amount the overall users.
 - Recommeding the practice pieces for the users' weaknesses (Detect the weaknesses?). 
 
 What do the app going to test/pratice:
-For normal pieces:
+(1) For normal pieces:
 - Testing the pitch and beat -> comparing the error between the samples and the users' recording.
 - Using machine to generate the samples.
 
-For instruments examination/grading test:
-- The users need to learn from the professional musicians samples
+Method for (1):
+- Normalizing the autio data
+- Comparing the sound wave by subtracting the samples digitized data and the users' recording digitized data, then taking absolute value.
+If the value is smaller then a critical value, accept it. Otherwise, point out the error note with red color.
+- Denoise (adding the background noise to the samples or autoencoder (not perfer))
+
+(2) For instruments examination/grading test:
+- The users need to learn from the professional musicians samples.
 - The comparasion samples come from professional musicians with repected to the different instruments.
 Remark: The musicial notation (symbol) may cause additional error.
 
-Method:
+Method for (2):
 - Comparing the sound wave by subtracting the samples digitized data and the users' recording digitized data, then taking absolute value.
 If the value is smaller then a critical value, accept it. Otherwise, point out the error note with red color.
-- Denoise by 
+- Denoise (adding the background noise to the samples or autoencoder (not perfer))
 
 REMARKS:
-- Starting at a quiet environment.
-- Assume these do not exist external noise.
-
+- Starting at a quiet environment. Assume these do not exist external noise.
 
 """)
 
