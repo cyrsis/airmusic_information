@@ -29,7 +29,7 @@ Features:
 
 Userinterface:
 1, Choosing the users' instrument.
-2, Click the START and then give a few preparatory beat (預備拍).
+2, Click the 'START' and then give a few preparatory beat (預備拍).
 3, User can start playing the instrument.
 4, Generate report for the performance.
 - Adding the restart and stop buttoms during the performence.
