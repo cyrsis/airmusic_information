@@ -56,21 +56,22 @@ Features:
 - Using machine to generate the samples.
 
 ##### Method for (1):
-- Normalizing the autio data. Detect the outliers, then reject them from the normalized stat.
+- Normalizing the audio data. Detect the outliers, then reject them from the normalized stat.
 - Comparing the sound wave by subtracting the samples digitized data and the users' recording digitized data, then taking absolute value. 
 - If the value is smaller then a critical value (will be adjusted for better result), accept it. Otherwise, point out the error note with red color.
-- Denoise (adding the background noise to the samples or autoencoder (not perfer))
+- Denoise (adding the background noise to the samples or autoencoder (not prfer))
 
 ##### (2) For instruments examination/grading test:
 - The users need to learn from the professional musicians samples.
-- The comparasion samples come from professional musicians with repected to the different instruments.
+- The comparison samples come from professional musicians with respected to the different instruments.
 
-> Remark: The musicial notation (symbol) may cause additional error.
+> Remark: The musical notation (symbol) may cause additional error.
 
 ##### Method for (2):
+- Normalizing the audio data. Detect the outliers, then reject them from the normalized stat.
 - Comparing the sound wave by subtracting the samples digitized data and the users' recording digitized data, then taking absolute value.
 - If the value is smaller then a critical value (will be adjusted for better result), accept it. Otherwise, point out the error note with red color.
-- Denoise (adding the background noise to the samples or autoencoder (not perfer))
+- Denoise (adding the background noise to the samples or autoencoder (not prefer))
 
 ##### Other factors
 - The qualities of different instruments will produce different outputs (e.g. pitch).
@@ -83,4 +84,4 @@ Features:
 """)
 
 
-st.subheader("last Update: July 5, 2022 05:24 PM")
+st.subheader("last Update: July 5, 2022 05:29 PM")
