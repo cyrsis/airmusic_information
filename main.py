@@ -40,6 +40,7 @@ Features:
 2. Click the 'START' and then give a few preparatory beat (預備拍).
 3. User can start playing the instrument.
 4. Generate report for the performance.
+
 - Adding the restart and stop buttoms during the performence.
 - Adding enlarge function.
 
