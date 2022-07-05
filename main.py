@@ -33,6 +33,7 @@ Userinterface:
 3, User can start playing the instrument.
 4, Generate report for the performance.
 - Adding the restart and stop buttoms during the performence.
+- Adding enlarge function.
 
 Report template:
 - The name of the piece/song.
