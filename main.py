@@ -25,6 +25,7 @@ Features:
 - Special Read-out notes function for eyesight impaired users.
 
 hhvh
+rerere
 """)
 
 
