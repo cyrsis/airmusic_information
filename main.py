@@ -27,19 +27,37 @@ Features:
 - Special Read-out notes function for eyesight impaired users.
     Enlargement function
 
+Userinterface:
+1, Choosing the users' instrument.
+2, Click the START and then give a few preparatory beat (預備拍).
+3, User can start playing the instrument.
+4, Generate report for the performance.
+
+Report template:
+- The name of the piece/song.
+- Number of error notes (with ratio/percentage).
+- Ranking amount the overall users.
+- Recommeding the practice pieces for the users' weaknesses (Detect the weaknesses?). 
+
 What do the app going to test/pratice:
+For normal pieces:
 - Testing the pitch and beat -> comparing the error between the samples and the users' recording.
 - Using machine to generate the samples.
+
 For instruments examination/grading test:
 - The users need to learn from the professional musicians samples
 - The comparasion samples come from professional musicians with repected to the different instruments.
-Remark: The musicial notation (symbol) may cause .
+Remark: The musicial notation (symbol) may cause additional error.
 
 Method:
-- Comparing the sound wave by subtracting the samples data and the users' recording data.
+- Comparing the sound wave by subtracting the samples digitized data and the users' recording digitized data, then taking absolute value.
+If the value is smaller then a critical value, accept it. Otherwise, point out the error note with red color.
+- Denoise by 
 
 REMARKS:
 - Starting at a quiet environment.
+- Assume these do not exist external noise.
+
 
 """)
 
