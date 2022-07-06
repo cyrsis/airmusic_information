@@ -19,7 +19,7 @@
 - [X] RAW MIDI
     - [X] Upload from the App
 - [X] Tokenized MIDI
-    - [X ]Shows tokenized version of our midi files and also explains the process of tokenization.
+    - [X] Shows tokenized version of our midi files and also explains the process of tokenization.
 
 Play MIDI
 
