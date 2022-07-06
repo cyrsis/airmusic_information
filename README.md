@@ -3,14 +3,14 @@
 ### TO DO:
 
 - [x] Merge the idea into the document, (Pitch & Docs)
-- [x] Fix the ABTesting
-    - [x] Some Shit about the types for compare values
 - [x] Organize the Appcourse
     - [x] Assign to the team to work on with Sample
 - [x] Music Generation with Violin
     - [x] Assign to the team to work on with Sample
 - [x] Fix all the files name in the 'streamlit_data/app_course'
     - [x] Course preview given bad file name
+- [x] Fix the ABTesting
+    - [x] Some Shit about the types for compare values
 
 ---
 
