@@ -5,10 +5,10 @@ st.markdown("""
 
 ##### Update Main:
 
--> Play too high or low in pitch.
+(1) Play too high or low in pitch.
 - Plan A: Comparing the user's recording with the sample piece and selecting the difference among them. Data are digitalized.
 - Plan B: Using music21 to read the piece and generate the demo of the performance. Then, comparing the user's performance with music21's sample. (this can be a solution for tuner.)
--> Play too fast or slow for the rhythms.
+(2) Play too fast or slow for the rhythms.
 
 ##### Additional ideas to Main.
 
