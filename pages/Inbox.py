@@ -9,6 +9,8 @@ st.markdown("""
 - Plan A: Comparing the user's recording with the sample piece and selecting the difference among them. Data are digitalized.
 - Plan B: Using music21 to read the piece and generate the demo of the performance. Then, comparing the user's performance with music21's sample. (this can be a solution for tuner.)
 2. Play too fast or slow for the rhythms.
+- Idea: If the pitch of the note is change inthe next time step, note that as 1. Otherwise, note that as 0. Then, compare the 0/1 pattern to find out the rhythms is true or not.
+- Problems: Can not detect the rhythms with the same notes in near time step.
 
 ##### Additional ideas to Main.
 
