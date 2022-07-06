@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.write(f"### Pitch Deck")
-st.write(f"#### From Chole")
+st.write(f"#### From Chloe")
 st.write(f'''
 AA_CT_200422.docx
 For Victor .. here is my original pitch: you may find some helpful ideas here?
