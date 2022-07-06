@@ -9,4 +9,7 @@ st.write(f"Is MPS available? {torch.backends.mps.is_available()}")
 device = "mps" if torch.backends.mps.is_available() else "cpu"
 st.write(f"Using device: {device}")
 
+
 st.markdown('---')
+
+st.markdown('https://web.mit.edu/music21/doc/usersGuide/index.html')

@@ -29,4 +29,8 @@ pip install --pre -i https://pypi.anaconda.org/scipy-wheels-nightly/simple scipy
 
 Scipy for all the Business Analysis
 
+#### LilyPond path
+```
+lilypondPath : ''
 
+```
