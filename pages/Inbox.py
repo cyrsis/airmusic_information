@@ -15,7 +15,7 @@ st.markdown("""
 ##### Additional ideas to Main.
 
 (3) Some basic information of sound/music:
-- Reference:　Barry Parker, <Good Vibrations: The Physics of Music>, Johns Hopkins University Press, 2009-11-17, pp. 63[note's shape], 66-67[frequency].
+- Reference: Barry Parker, <Good Vibrations: The Physics of Music>, Johns Hopkins University Press, 2009-11-17, pp. 63[note's shape], 66-67[frequency].
 - The same note sounds differently in shape with different instruments, for instant, violin and piano.
 (4) Save Function 
 - Recording & Report -> save them under user's account
