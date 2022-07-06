@@ -17,8 +17,8 @@ st.audio(audio_bytes, format='audio/mp3')
 
 s = converter.parse('streamlit_data/app_course/ConcertinoinDOp15_3rd.mxl')
 st.set_option('deprecation.showPyplotGlobalUse', False)
-st.write(s.show('ipython.musicxml.png'))
-# st.pyplot(s.show())
+# st.write(s.show('ipython.musicxml.png'))
+st.pyplot(s.show())
 
 p = graph.plot.HistogramPitchSpace(s)
 # p.id

@@ -12,6 +12,17 @@
 - [x] Fix all the files name in the 'streamlit_data/app_course'
     - [x] Course preview given bad file name
 
+---
+
+#### The fun part
+
+- [X] RAW MIDI
+    - [X] Upload from the App
+- [X] Tokenized MIDI
+    - [X ]Shows tokenized version of our midi files and also explains the process of tokenization.
+
+Play MIDI
+
 ### Done
 
 - [x] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
@@ -30,6 +41,7 @@ pip install --pre -i https://pypi.anaconda.org/scipy-wheels-nightly/simple scipy
 Scipy for all the Business Analysis
 
 #### LilyPond path
+
 ```
 lilypondPath : ''
 
