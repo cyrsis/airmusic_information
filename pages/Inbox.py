@@ -5,10 +5,10 @@ st.markdown("""
 
 ##### Update Main:
 
-(1) Play too high or low in pitch.
+1. Play too high or low in pitch.
 - Plan A: Comparing the user's recording with the sample piece and selecting the difference among them. Data are digitalized.
 - Plan B: Using music21 to read the piece and generate the demo of the performance. Then, comparing the user's performance with music21's sample. (this can be a solution for tuner.)
-(2) Play too fast or slow for the rhythms.
+2. Play too fast or slow for the rhythms.
 
 ##### Additional ideas to Main.
 
@@ -17,6 +17,8 @@ st.markdown("""
 - The same note sounds differently in shape with different instruments, for instant, violin and piano.
 (4) Save Function 
 - Recording & Report -> save them under user's account
+(5) Tuner Function:
+- Background beat counting with related speed, depended on the user's preference. 
 
 
 ##### Ideas with Streamlit:
