@@ -17,4 +17,5 @@ p = graph.plot.HistogramPitchSpace(s)
 # p.id
 st.write("Histogram-PitchSpace-count")
 st.set_option('deprecation.showPyplotGlobalUse', False)
-st.pyplot(p.run())
+fig = p.run()
+st.pyplot(fig)
