@@ -2,16 +2,12 @@
 
 ### TO DO:
 
-- [ ] Merge the idea into the document, (Pitch & Docs)
-    - [x] listing the points of PitchDeck.
 - [ ] Organize the Appcourse
     - [ ] Assign to the team to work on with Sample
-    - [x] file name checked
 - [ ] Music Generation with Violin
     - [ ] Assign to the team to work on with Sample
     - [x] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use the trained .pth model later.
-- [ ] Fix all the files name in the 'streamlit_data/app_course'
-    - [ ] Course preview given bad file name
+    - [x] the trained .pth model still not work, there not exist class transformer in fastai.text.models.
 - [ ] Fix the ABTesting
     - [ ] Some Shit about the types for compare values
 
@@ -28,8 +24,17 @@ Play MIDI
 
 ### Done
 
+- [x] Merge the idea into the document, (Pitch & Docs)
+    - [x] listing the points of PitchDeck.
+- [ ] Organize the Appcourse
+    - [ ] Assign to the team to work on with Sample
+    - [x] file name checked
 - [ ] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
--
+- [x] Fix all the files name in the 'streamlit_data/app_course'
+    - [x] Course preview given bad file name
+- [x] Found the solution of Music21 .show() problem by using lilypond
+
+- [ ] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
 
 # Use Docker to run
 
@@ -44,11 +49,6 @@ pip install --pre -i https://pypi.anaconda.org/scipy-wheels-nightly/simple scipy
 Scipy for all the Business Analysis
 
 #### LilyPond path
-
-Links may useful: 
-
-https://colab.research.google.com/drive/17Fql7pyK3xsO8KmZorvb1tBoPomidCPB#scrollTo=TxLlKkizXMMG
-https://groups.google.com/g/music21list/c/wcUsuqvbpUQ
 
 ```
 lilypondPath : ''
