@@ -34,5 +34,17 @@ st.markdown("""
 
 For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
 
-last update 7/7 13:41
+
 """)
+
+st.markdown('---')
+
+st.markdown("""
+
+##### Links for Music21 .show situation:
+https://groups.google.com/g/music21list/c/wcUsuqvbpUQ
+https://colab.research.google.com/drive/17Fql7pyK3xsO8KmZorvb1tBoPomidCPB#scrollTo=TxLlKkizXMMG
+
+""")
+
+st.markdonw('last update 7/7 16:02')
