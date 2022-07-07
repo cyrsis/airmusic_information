@@ -12,6 +12,8 @@ for i in range(100):
     perc.text(f'current {i+1} %')
     bar.progress(i + 1)
     
+time.sleep(5)
+    
 perc.empty()
 bar.empty()
 
