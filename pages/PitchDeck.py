@@ -1,5 +1,4 @@
 import streamlit as st
-from annotated_text import annotated_text
 
 st.write(f"### Pitch Deck")
 st.write(f"#### From Chole")
