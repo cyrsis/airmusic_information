@@ -4,8 +4,9 @@
 
 - [x] Merge the idea into the document, (Pitch & Docs)
     - listing the points of PitchDeck.
-- [xx] Organize the Appcourse
+- [x] Organize the Appcourse
     - [x] Assign to the team to work on with Sample
+    - [ ] file name checked
 - [x] Music Generation with Violin
     - [x] Assign to the team to work on with Sample
     - For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
