@@ -7,8 +7,8 @@ import numpy as np
 # import pygame as pg
 import streamlit as st
 
-from musicautobot.musicautobot.music_transformer.transform import *
 
+from musicautobot.vocab import MusicVocab
 from utils.print_info import *
 
 threadLock = threading.Lock()
@@ -23,6 +23,7 @@ def append_to_list(L, file_name, vocab):
 
     for f in file_name:
         try:
+            from musicautobot.music_transformer import MusicItem
             item = MusicItem.from_file(f, vocab)
             L.append(f)
         except:

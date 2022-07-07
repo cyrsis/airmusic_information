@@ -1,5 +1,8 @@
 # airmusic_information
 
+
+#### For Sam , Tim
+#### Which one is done?
 ### TO DO:
 
 - [ ] Merge the idea into the document, (Pitch & Docs)
@@ -27,12 +30,12 @@
 Play MIDI
 
 ### Done
-
-- [ ] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
+- [ x] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
 -
 
 # Use Docker to run
 
+July 7, 2022 4:29 PM Getting the team get used to work withs steamlit
 July 5, 2022 1:27 PM Start add the company material into single Repo
 
 #### For ARM M1 Setup with Environment
@@ -43,11 +46,14 @@ pip install --pre -i https://pypi.anaconda.org/scipy-wheels-nightly/simple scipy
 
 Scipy for all the Business Analysis
 
-#### LilyPond path
-
+#### LilyPond path 
+##### Only works on local environemt or in custom Ubuntu Instance
+##### Explan why it is useful next time
 Links may useful: 
 
-https://colab.research.google.com/drive/17Fql7pyK3xsO8KmZorvb1tBoPomidCPB#scrollTo=TxLlKkizXMMG
+
+Colab working with Music21: <https://colab.research.google.com/drive/17Fql7pyK3xsO8KmZorvb1tBoPomidCPB#scrollTo=TxLlKkizXMMG>
+
 https://groups.google.com/g/music21list/c/wcUsuqvbpUQ
 
 ```
