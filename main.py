@@ -34,6 +34,8 @@ AI and Algo to study music and help students identify if they -
 play too high or too low in pitch;
 play too fast or too slow for the rhythms;
 or make errors which don’t make good musical sense.
+& How to suggest for  improvement
+
 
 The app. targets many standard set exam. pieces, for example Grades 3, 5 and 8 for violin and other instruments.
 

@@ -8,9 +8,9 @@ import mingus.extra.lilypond as LilyPond
 # pdf_display = F'<iframe src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf"></iframe>'
 from utils.lily_utilys import lily_show
 
-st.title("Grade 6 Course")
+st.title("Players - FFX1")
 st.markdown('---')
-st.markdown("##### Sonata in G 3rd")
+st.markdown("##### Players - FFX1")
 audio_file = open('streamlit_data/SonatainG3rdmvt.mp3', 'rb')
 audio_bytes = audio_file.read()
 
@@ -39,7 +39,7 @@ music = \relative {
 
 
 ## Try to display the Music Sheet in here
-s = converter.parse('streamlit_data/app_course/Concertino_in_D_Op15_3rd.mxl')
+s = converter.parse('streamlit_data/app_course/user_play.musicxml')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 # st.image(str(s.write('lily.png')))
 # lily_show(s)

@@ -18,5 +18,4 @@ for i in s1.notes:
 
 # play music
 
-st_player = midi.realtime.StreamPlayer(s1)
-st_player.play()
+st.audio(s1.notes, )
