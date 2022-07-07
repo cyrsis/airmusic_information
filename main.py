@@ -9,9 +9,8 @@ st.set_page_config(
 latest_iteration = st.empty()
 bar = st.progress(0)
 for i in range(100):
-    latest_iteration.text(f'目前進度 {i+1} %')
+    latest_iteration.text(f'current {i+1} %')
     bar.progress(i + 1)
-    time.sleep(0.1)
 
 st.markdown("### AirMusic ")
 st.markdown("###### The Perfect Companion for Music Practice ")
