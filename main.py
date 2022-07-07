@@ -12,7 +12,7 @@ for i in range(100):
     perc.text(f'current {i+1} %')
     bar.progress(i + 1)
     
-perc.text.empty()
+perc.empty()
 bar.empty()
 
 st.markdown("### AirMusic ")
