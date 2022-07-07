@@ -14,27 +14,34 @@ Learning why, how and what to practise is a gradual process: only a few teachers
 
 We want to help students enjoy repetitive technical exercises. Parents want to know how students improve and how quickly they master techniques. Teachers want to move their students forward faster through more repertoire rather than grinding through the same pieces over and over again.
 
-The user plays their musical instrument to Air Music App according to the **displayed music scores** and the App will **produce an instant report analysing pitch and rhythm**, **pinpointing on the music exact errors and areas for improvement**. It includes <text prompt> and <voice-over> features (in different languages in the future): this important feature will particularly assist users with special needs.
+The user plays their musical instrument to Air Music App according to the **displayed music scores** and the App will **produce an instant report analysing pitch and rhythm**, **pinpointing on the music exact errors and areas for improvement**. It includes 1. text prompt and 2. voice-over features (in different languages in the future): this important feature will particularly assist users with special needs.
 
 Air Music App can make this essential, regular, daily activity more attractive, and, more importantly, more effective. Every parent looks for a more direct and helpful assessment of their child’s progress, and every teacher wants to set measurable goals for their pupils; it will in particular help underprivileged kids, because they will now have easy access to a broad music database and more comprehensive music learning, making this App a force for social and equal opportunity. Air Music App can help all parents and teachers to work collaboratively, providing greater support and direction for every pupil’s learning and musical development.
  
-With results accumulated during each term, parents and prospective teachers will have a more precise guide for school entry, and students can progress more confidently to higher grades with confirmed, reliable technical assurance. Air Music App can inspire
-effective practice, provide an energising spur to practise, and lead to enhanced learning and growth in self-confidence; families will know more certainly when the student is ready for the next grade exam. and which level to tackle next - leading to a welcome reduction in over-ambitious teacher & parent expectations. This will train better practice habits, develop self-awareness of how to learn, what to listen for and how to listen, even, maybe, how to teach better; and parents can check the teacher is doing the right things.
+With results accumulated during each term, parents and prospective teachers will have a more precise guide for school entry, and students can progress more confidently to higher grades with confirmed, reliable technical assurance. Air Music App can **inspire
+effective practice**, **provide an energising spur to practise**, and **lead to enhanced learning and growth in self-confidence**; families will know more certainly when the student is ready for the next grade exam. and which level to tackle next - leading to **a welcome reduction in over-ambitious teacher & parent expectations**. This will **train better practice habits**, **develop self-awareness of how to learn, what to listen for and how to listen**, even, maybe, how to teach better; and parents can check the teacher is doing the right things.
 
-Air Music App will help learners track progress, highlight areas for improvement, and offer gamification features that encourage learners to practise more, at a readily affordable amount for any average music learner. Hong Kong alone has more than 1M music learners; it will therefore only take 2% of these learners to subscribe to the App to deliver a decent ROI.
+Air Music App will help learners track progress, highlight areas for improvement, and offer gamification features [1] that encourage learners to practise more, at a readily affordable amount for any average music learner. Hong Kong alone has more than 1M music learners; it will therefore only take 2% of these learners to subscribe to the App to deliver a decent ROI.
 
 (OTHER INCOME)
 Apart from regular fee income, we will have music examination pieces and masterclasses performed by renowned educators. Examination repertoire can be included for more advanced learners, who will pay subscriptions on a per-piece or per-grade basis, while masterclasses will collect an annual subscription. 
 
-Air Music App can also be tailor-made to schools’ requirements, such as student orchestras and choirs, where conductors can monitor the performing quality of each player and singer using our App; since every school has an orchestra or choir - often both - and most of them compete regularly in the annual School Speech and Music Festivals. Our App will help extensively, particularly during and after COVID with the consequent knock-on online educational developments.
+Air Music App can also be tailor-made [2] to schools’ requirements, such as student orchestras and choirs, where conductors can monitor the performing quality of each player and singer using our App; since every school has an orchestra or choir - often both - and most of them compete regularly in the annual School Speech and Music Festivals. Our App will help extensively, particularly during and after COVID with the consequent knock-on online educational developments.
 
-Additional future features will cover Chinese instruments and learners. There is a huge free classical music database which we can match with the examination board requirements in the US, Canada, and China.
+Additional future features will cover Chinese instruments [3] and learners. There is a huge free classical music database which we can match with the examination board requirements in the US, Canada, and China.
 
-The community of music learners offers significant cross-selling opportunities with concert and event organisers, music instrument and music score merchants and distributors, and music education and entertainment institutions.
+The community of music learners [4] offers significant cross-selling opportunities with concert and event organisers, music instrument and music score merchants and distributors, and music education and entertainment institutions.
 
 Air Music App is “The Smartest AI for Effective Music Practice”.
 
+
+[1] Gamification features will be discuss after the app is done and the efficiency of the app is high enough. Otherwise, gamification features may cause time-consumed situation.
+[2] Idea:　serivce for a specific instrument (violin, piano, flute...) or orchestras and choirs as a whole.
+[3] It is necessary to study the differences between Western instrument and Chinese instrument, depend on the sound waves and amplitudes produced are independent or not. Then, new database might need to build.
+[4] It is hard to create until the app is familiar in the market and amount of users are using it. Community cannot be achieve in the current stage.
+
 ''')
 # Set the device
+
 
 st.markdown('---')
