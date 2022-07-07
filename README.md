@@ -9,7 +9,7 @@
     - [x] file name checked
 - [ ] Music Generation with Violin
     - [ ] Assign to the team to work on with Sample
-    - [x] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
+    - [x] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use the trained .pth model later.
 - [ ] Fix all the files name in the 'streamlit_data/app_course'
     - [ ] Course preview given bad file name
 - [ ] Fix the ABTesting
