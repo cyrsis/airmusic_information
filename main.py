@@ -116,13 +116,15 @@ Air Music App will help learners:
 
 it can encourage learners to practise more, at a readily affordable amount for any average music learner. Hong Kong alone has more than 1M music learners; it will therefore only take 2% of these learners to subscribe to the App to deliver a decent ROI.
 
-part from regular fee income, we will have music examination pieces and masterclasses performed by renowned educators. Examination repertoire can be included for more advanced learners, who will pay subscriptions on a per-piece or per-grade basis, while masterclasses will collect an annual subscription.
+Other Income:
 
-Air Music App can also be tailor-made [2] to schools’ requirements, such as student orchestras and choirs, where conductors can monitor the performing quality of each player and singer using our App; since every school has an orchestra or choir - often both - and most of them compete regularly in the annual School Speech and Music Festivals. Our App will help extensively, particularly during and after COVID with the consequent knock-on online educational developments.
+Apart from **regular fee income**, we will have music examination pieces and masterclasses performed by renowned educators. Examination repertoire can be included for more advanced learners. Thus, **learners will pay subscriptions on a per-piece or per-grade basis**, while **masterclasses will collect an annual subscription**.
 
-Additional future features will cover Chinese instruments [3] and learners. There is a huge free classical music database which we can match with the examination board requirements in the US, Canada, and China.
+Air Music App can also be **tailor-made** [2] to schools’ requirements, such as student orchestras and choirs, where conductors can monitor the performing quality of each player and singer using our App; since every school has an orchestra or choir - often both - and most of them compete regularly in the annual School Speech and Music Festivals. Our App will help extensively, particularly during and after COVID with the consequent knock-on online educational developments.
 
-The community of music learners [4] offers significant cross-selling opportunities with concert and event organisers, music instrument and music score merchants and distributors, and music education and entertainment institutions.
+Additional future features will cover **Chinese instruments** [3] and learners. There is a huge free classical music database which we can match with the examination board requirements in the US, Canada, and China.
+
+The **community of music learners** [4] offers significant 1. cross-selling opportunities with concert and event organisers, 2. music instrument and music score merchants and distributors, and 3. music education and entertainment institutions.
 
 Air Music App is **“The Smartest AI for Effective Music Practice”**.
 
@@ -130,7 +132,7 @@ Remarks:
 
 [1] Gamification features will be discuss after the app is done and the efficiency of the app is high enough. Otherwise, gamification features may cause time-consumed situation.
 
-[2] Idea:　serivce for a specific instrument (violin, piano, flute...) or orchestras and choirs as a whole.
+[2] Idea: serivce for a specific instrument (violin, piano, flute...) or orchestras and choirs as a whole.
 
 [3] It is necessary to study the differences between Western instrument and Chinese instrument, depend on the sound waves and amplitudes produced are independent or not. Then, new database might need to build.
 
