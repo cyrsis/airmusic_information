@@ -3,13 +3,13 @@
 ### TO DO:
 
 - [ ] Merge the idea into the document, (Pitch & Docs)
-    - listing the points of PitchDeck.
+    - [x] listing the points of PitchDeck.
 - [ ] Organize the Appcourse
     - [ ] Assign to the team to work on with Sample
     - [x] file name checked
 - [ ] Music Generation with Violin
     - [ ] Assign to the team to work on with Sample
-    - For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
+    - [x] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
 - [ ] Fix all the files name in the 'streamlit_data/app_course'
     - [ ] Course preview given bad file name
 - [ ] Fix the ABTesting
