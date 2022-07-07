@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import time
 from PIL import Image
 
 st.set_page_config(
