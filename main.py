@@ -140,5 +140,16 @@ Remarks:
 
 """)
 
+st.markdown('---')
+
+st.markdown("""
+
+##### Methods represent Improvement:
+
+1) Comparing the before-and-after histogram to show the similarity between sample version and practice verison by user.
+
+""")
+
+
 
 st.subheader("last Update: July 7, 2022 15:06")
