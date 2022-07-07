@@ -6,7 +6,7 @@ import mingus.extra.lilypond as LilyPond
 # pdf_display = F'<iframe src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf"></iframe>'
 
 st.title("Grade 6 Course")
-st.markdown("Sonata in G 3rd")
+st.markdown("##### Sonata in G 3rd")
 audio_file = open('streamlit_data/SonatainG3rdmvt.mp3', 'rb')
 audio_bytes = audio_file.read()
 
