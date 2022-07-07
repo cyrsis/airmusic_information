@@ -36,8 +36,11 @@ Air Music App is “The Smartest AI for Effective Music Practice”.
 
 
 [1] Gamification features will be discuss after the app is done and the efficiency of the app is high enough. Otherwise, gamification features may cause time-consumed situation.
+
 [2] Idea:　serivce for a specific instrument (violin, piano, flute...) or orchestras and choirs as a whole.
+
 [3] It is necessary to study the differences between Western instrument and Chinese instrument, depend on the sound waves and amplitudes produced are independent or not. Then, new database might need to build.
+
 [4] It is hard to create until the app is familiar in the market and amount of users are using it. Community cannot be achieve in the current stage.
 
 ''')
