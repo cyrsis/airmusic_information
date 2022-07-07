@@ -28,4 +28,7 @@ st.markdown("""
 (1) Adding animation:
 - using Lottie in Streamlit and design a animation for AirMusic Icon/Logo. It can be an eye-catching image when user visit the webpage.
 
+##### Think more about how to do it.
+(1) Parents want to know how quickly they master techniques.
+(2) Offer gamification features that encourage learners to practise more.
 """)
