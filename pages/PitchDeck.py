@@ -12,7 +12,7 @@ An amateur musician will practise until they get something right, but the profes
 
 Learning why, how and what to practise is a gradual process: only a few teachers offer detailed advice on the steps each student should take to make their practice more effective .. and even enjoyable.
 
-We want to help students enjoy repetitive technical exercises. Parents want to know how students improve and how quickly they master techniques. Teachers want to move their students forward faster through more repertoire rather than grinding through the same pieces over and over again.
+We want to help students enjoy repetitive technical exercises. Parents want to know how students improve techniques. Teachers want to move their students forward faster through more repertoire rather than grinding through the same pieces over and over again.
 
 The user plays their musical instrument to Air Music App according to the displayed music scores and the App will produce an instant report analysing pitch and rhythm, pinpointing on the music exact errors and areas for improvement. It includes text prompt and voice-over features (in different languages in the future): this important feature will particularly assist users with special needs.
 
@@ -33,6 +33,10 @@ Additional future features will cover Chinese instruments and learners. There is
 The community of music learners offers significant cross-selling opportunities with concert and event organisers, music instrument and music score merchants and distributors, and music education and entertainment institutions.
 
 Air Music App is “The Smartest AI for Effective Music Practice”.
+
+
+(1) Parents want to know how quickly they master techniques.
+(2) 
 
 ''')
 # Set the device
