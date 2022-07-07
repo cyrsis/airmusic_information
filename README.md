@@ -26,9 +26,6 @@ Play MIDI
 
 - [x] Merge the idea into the document, (Pitch & Docs)
     - [x] listing the points of PitchDeck.
-- [ ] Organize the Appcourse
-    - [ ] Assign to the team to work on with Sample
-    - [x] file name checked
 - [ ] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
 - [x] Fix all the files name in the 'streamlit_data/app_course'
     - [x] Course preview given bad file name
