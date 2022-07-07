@@ -2,33 +2,33 @@
 
 ### TO DO:
 
-- [x] Merge the idea into the document, (Pitch & Docs)
+- [ ] Merge the idea into the document, (Pitch & Docs)
     - listing the points of PitchDeck.
-- [x] Organize the Appcourse
-    - [x] Assign to the team to work on with Sample
-    - [ ] file name checked
-- [x] Music Generation with Violin
-    - [x] Assign to the team to work on with Sample
+- [ ] Organize the Appcourse
+    - [ ] Assign to the team to work on with Sample
+    - [x] file name checked
+- [ ] Music Generation with Violin
+    - [ ] Assign to the team to work on with Sample
     - For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
-- [x] Fix all the files name in the 'streamlit_data/app_course'
-    - [x] Course preview given bad file name
-- [x] Fix the ABTesting
-    - [x] Some Shit about the types for compare values
+- [ ] Fix all the files name in the 'streamlit_data/app_course'
+    - [ ] Course preview given bad file name
+- [ ] Fix the ABTesting
+    - [ ] Some Shit about the types for compare values
 
 ---
 
 #### The fun part
 
-- [X] RAW MIDI
-    - [X] Upload from the App
-- [X] Tokenized MIDI
-    - [X] Shows tokenized version of our midi files and also explains the process of tokenization.
+- [ ] RAW MIDI
+    - [ ] Upload from the App
+- [ ] Tokenized MIDI
+    - [ ] Shows tokenized version of our midi files and also explains the process of tokenization.
 
 Play MIDI
 
 ### Done
 
-- [x] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
+- [ ] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
 -
 
 # Use Docker to run
