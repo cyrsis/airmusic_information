@@ -26,7 +26,6 @@ Play MIDI
 
 - [x] Merge the idea into the document, (Pitch & Docs)
     - [x] listing the points of PitchDeck.
-- [ ] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
 - [x] Fix all the files name in the 'streamlit_data/app_course'
     - [x] Course preview given bad file name
 - [x] Found the solution of Music21 .show() problem by using lilypond
