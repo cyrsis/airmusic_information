@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import time
+from annotated_text import annotated_text
 from PIL import Image
 
 st.set_page_config(
@@ -17,6 +18,21 @@ time.sleep(1)
     
 perc.empty()
 bar.empty()
+
+annotated_text(
+    "This ",
+    ("is", "verb"),
+    " some ",
+    ("annotated", "adj"),
+    ("text", "noun"),
+    " for those of ",
+    ("you", "pronoun"),
+    " who ",
+    ("like", "verb"),
+    " this sort of ",
+    ("thing", "noun"),
+    "."
+)
 
 st.markdown("### AirMusic ")
 st.markdown("###### The Perfect Companion for Music Practice ")
