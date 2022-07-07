@@ -10,8 +10,8 @@
     - [x] the trained .pth model still not work, there not exist class transformer in fastai.text.models.
 - [ ] Fix the ABTesting
     - [ ] Some Shit about the types for compare values
-- [x] Impovement of User
-    - [x] Using histogram and color to identify the user's accuracy. 
+- [ ] Impovement of User
+    - [ ] Using histogram and color to identify the user's accuracy. 
 
 ---
 
