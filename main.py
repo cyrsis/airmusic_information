@@ -118,7 +118,7 @@ it can encourage learners to practise more, at a readily affordable amount for a
 
 Other Income:
 
-Apart from *regular fee income*, we will have music examination pieces and masterclasses performed by renowned educators. Examination repertoire can be included for more advanced learners. Thus, **learners will pay subscriptions on a per-piece or per-grade basis**, while **masterclasses will collect an annual subscription**.
+Apart from ***regular fee income***, we will have music examination pieces and masterclasses performed by renowned educators. Examination repertoire can be included for more advanced learners. Thus, **learners will pay subscriptions on a per-piece or per-grade basis**, while **masterclasses will collect an annual subscription**.
 
 Air Music App can also be *tailor-made* [2] to schools’ requirements, such as student orchestras and choirs, where conductors can monitor the performing quality of each player and singer using our App; since every school has an orchestra or choir - often both - and most of them compete regularly in the annual School Speech and Music Festivals. Our App will help extensively, particularly during and after COVID with the consequent knock-on online educational developments.
 
