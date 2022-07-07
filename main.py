@@ -11,6 +11,8 @@ bar = st.progress(0)
 for i in range(100):
     latest_iteration.text(f'current {i+1} %')
     bar.progress(i + 1)
+    
+bar.empty()
 
 st.markdown("### AirMusic ")
 st.markdown("###### The Perfect Companion for Music Practice ")
