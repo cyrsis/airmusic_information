@@ -31,4 +31,6 @@ st.markdown("""
 ##### Think more about how to do it.
 (1) Parents want to know how quickly they master techniques.
 (2) Offer gamification features that encourage learners to practise more.
+
+For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
 """)
