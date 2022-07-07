@@ -6,12 +6,13 @@ st.set_page_config(
     page_title="AirMusic ML-Core", page_icon="📊", initial_sidebar_state="expanded"
 )
 
-latest_iteration = st.empty()
+perc = st.empty()
 bar = st.progress(0)
 for i in range(100):
-    latest_iteration.text(f'current {i+1} %')
+    perc.text(f'current {i+1} %')
     bar.progress(i + 1)
     
+perc.text.empty()
 bar.empty()
 
 st.markdown("### AirMusic ")
