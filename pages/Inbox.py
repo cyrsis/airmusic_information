@@ -47,4 +47,4 @@ https://colab.research.google.com/drive/17Fql7pyK3xsO8KmZorvb1tBoPomidCPB#scroll
 
 """)
 
-st.markdonw('last update 7/7 16:02')
+st.markdown('last update 7/7 16:02')
