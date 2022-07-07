@@ -7,6 +7,7 @@
     - [x] Assign to the team to work on with Sample
 - [x] Music Generation with Violin
     - [x] Assign to the team to work on with Sample
+    - For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
 - [x] Fix all the files name in the 'streamlit_data/app_course'
     - [x] Course preview given bad file name
 - [x] Fix the ABTesting
