@@ -4,7 +4,7 @@
 
 - [x] Merge the idea into the document, (Pitch & Docs)
     - listing the points of PitchDeck.
-- [x] Organize the Appcourse
+- [xx] Organize the Appcourse
     - [x] Assign to the team to work on with Sample
 - [x] Music Generation with Violin
     - [x] Assign to the team to work on with Sample
