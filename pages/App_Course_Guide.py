@@ -1,5 +1,5 @@
-import ly.music
 import ly.document
+import ly.musicxml
 import streamlit as st
 from mingus.containers import Bar
 from music21 import *
@@ -15,8 +15,10 @@ audio_file = open('streamlit_data/SonatainG3rdmvt.mp3', 'rb')
 audio_bytes = audio_file.read()
 
 st.audio(audio_bytes, format='audio/mp3')
+
 # st.image(res, width = 800)
 
+# txt = Path('streamlit_data/app_course/Concertino_in_D_Op15_3rd.mxl').read_text().encode('UTF-8')
 d = ly.document.Document(r'''
 \version "2.18.0"
 
@@ -34,14 +36,12 @@ music = \relative {
   >>
 }
 ''')
-m = ly.music.document(d)
-# m = ly.music.document(d)
-st.write(m.dump())
+
 
 ## Try to display the Music Sheet in here
 s = converter.parse('streamlit_data/app_course/Concertino_in_D_Op15_3rd.mxl')
 st.set_option('deprecation.showPyplotGlobalUse', False)
-st.write()
+st.image(str(s.write('lily.png')))
 # lily_show(s)
 # st.pyplot(s.show())
 
