@@ -4,17 +4,28 @@ st.write(f"### Pitch Deck")
 st.write(f"#### From Chloe")
 st.write(f'''
 AA_CT_200422.docx
+
 For Victor .. here is my original pitch: you may find some helpful ideas here?
 
-Air Music App is “The Smartest AI for Effective Music Practice”. How do we know when something is right? How many times do we have to play something until it’s good or good enough? How many times do parents and teachers have to listen to a child making the same mistakes again and again?
+Air Music App is “The Smartest AI for Effective Music Practice”. 
+
+1. How do we know when something is right? 
+
+2. How many times do we have to play something until it’s good or good enough? 
+
+3. How many times do parents and teachers have to listen to a child making the same mistakes again and again?
 
 An amateur musician will practise until they get something right, but the professional practises until it won’t - and cannot - go wrong. Perfect practice makes practice perfect.
 
 Learning why, how and what to practise is a gradual process: only a few teachers offer detailed advice on the steps each student should take to make their practice more effective .. and even enjoyable.
 
-We want to help students enjoy repetitive technical exercises. Parents want to know how students improve techniques. Teachers want to move their students forward faster through more repertoire rather than grinding through the same pieces over and over again.
+We want to help students enjoy repetitive technical exercises. 
 
-The user plays their musical instrument to Air Music App according to the displayed music scores and the App will produce an instant report analysing pitch and rhythm, pinpointing on the music exact errors and areas for improvement. It includes text prompt and voice-over features (in different languages in the future): this important feature will particularly assist users with special needs.
+1. Parents want to know how students improve techniques. 
+
+2. Teachers want to move their students forward faster through more repertoire rather than grinding through the same pieces over and over again.
+
+The user plays their musical instrument to Air Music App according to the **displayed music scores** and the App will produce an instant report analysing pitch and rhythm, pinpointing on the music exact errors and areas for improvement. It includes text prompt and voice-over features (in different languages in the future): this important feature will particularly assist users with special needs.
 
 Air Music App can make this essential, regular, daily activity more attractive, and, more importantly, more effective. Every parent looks for a more direct and helpful assessment of their child’s progress, and every teacher wants to set measurable goals for their pupils; it will in particular help underprivileged kids, because they will now have easy access to a broad music database and more comprehensive music learning, making this App a force for social and equal opportunity. Air Music App can help all parents and teachers to work collaboratively, providing greater support and direction for every pupil’s learning and musical development.
  
