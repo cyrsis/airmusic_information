@@ -10,16 +10,17 @@ st.markdown("""
 
 ##### Victor -> So we plan to use mp3 to the pitch? or use the pitch result from the App?
 ##### Both resolution can work, which one is easier?
-###### No sure the time use (and pressure) for mp3 convert to pitch notes. If time consuming is not high, second one maybe more acc.
+######  Reply: No sure the time use (and pressure) for mp3 convert to pitch notes. If time consuming is not high, second one maybe more acc.
 
 - Plan B: Using music21 to read the piece and generate the demo of the performance. Then, comparing the user's performance with music21's sample. (this can be a solution for tuner.)
 ---
 
 2. Play too fast or slow for the rhythms.
-- Idea: If the pitch of the note is change inthe next time step, note that as 1. Otherwise, note that as 0. Then, compare the 0/1 pattern to find out the rhythms is true or not.
+- Idea: If the pitch of the note is change in the next time step, note that as 1. Otherwise, note that as 0. Then, compare the 0/1 pattern to find out the rhythms is true or not.
 - Problems: Can not detect the rhythms with the same notes in near time step.
 
 ##### Victor -> if we token (crop) the song, can we compare the length?
+###### Reply: we would like to ask whats 'length' is stand for, yet crop the song into parts can be easier to identify the length of rhythms, like tuplet. 
 
 
 ##### Additional ideas to Main.
@@ -28,6 +29,7 @@ st.markdown("""
 - Reference: Barry Parker, <Good Vibrations: The Physics of Music>, Johns Hopkins University Press, 2009-11-17, pp. 63[note's shape], 66-67[frequency].
 - The same note sounds differently in shape with different instruments, for instant, violin and piano.
 ##### Victor->  All we can is the pitch & Rhythms for now
+###### Reply: Undoubtedly.
    
 (4) Save Function 
 - Recording & Report -> save them under user's account
@@ -35,6 +37,7 @@ st.markdown("""
 (5) Tuner Function:
 - Background beat counting with related speed, depended on the user's preference. 
 ##### Victor-> Or use the App Tuner
+###### Reply: It would be great if there is avaliable, and it is aim to help user to start well.
 
 ##### Ideas with Streamlit:
 
