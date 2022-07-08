@@ -9,6 +9,7 @@
 ### TO DO:
 
 - [ ] Victor make a APK for the internal testing
+- [ ] Get Tim the Mac 
 - [ ] Organize the Appcourse
     - [ ] Assign to the team to work on with Sample
     - [ ] Work on the EDA for the xml
