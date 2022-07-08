@@ -13,7 +13,7 @@ st.markdown("""
 -A July 8, 2022 1:36 PM
 
 - Plan B: Using music21 to read the piece and generate the demo of the performance. 
-Then, comparing the user's performance with music21's sample. (this can be a solution for tuner.)
+- Then, comparing the user's performance with music21's sample. (this can be a solution for tuner.)
 ---
 
 2. Play too fast or slow for the rhythms.
