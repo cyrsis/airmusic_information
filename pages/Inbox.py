@@ -10,7 +10,7 @@ st.markdown("""
 
 ##### Victor -> So we plan to use mp3 to the pitch? or use the pitch result from the App?
 ##### Both resolution can work, which one is easier?
-- No sure the time use (and pressure) for mp3 convert to pitch notes. If time consuming is not high, second one maybe more acc.
+###### No sure the time use (and pressure) for mp3 convert to pitch notes. If time consuming is not high, second one maybe more acc.
 
 - Plan B: Using music21 to read the piece and generate the demo of the performance. Then, comparing the user's performance with music21's sample. (this can be a solution for tuner.)
 ---
