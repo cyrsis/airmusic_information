@@ -6,11 +6,8 @@
 #### Which one is done?
 ### TO DO:
 
-- [ ] Merge the idea into the document, (Pitch & Docs)
-    - [x] listing the points of PitchDeck.
 - [ ] Organize the Appcourse
     - [ ] Assign to the team to work on with Sample
-    - [x] file name checked
 - [ ] Music Generation with Violin
     - [ ] Assign to the team to work on with Sample
     - [x] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use the trained .pth model later.
@@ -32,7 +29,8 @@ Play MIDI
 - [ x] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
 - [x] Fix all the files name in the 'streamlit_data/app_course'
     - [x] Course preview given bad file name
-
+- [x] Merge the idea into the document, (Pitch & Docs)
+    - [x] listing the points of PitchDeck.
 # Use Docker to run
 
 July 7, 2022 4:29 PM Getting the team get used to work withs steamlit
