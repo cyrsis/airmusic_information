@@ -12,8 +12,8 @@
 ---
   
 - [ ] Viewing the suggestions list inside inbox.py
-    - [ ] Q1
-    - [ ] Q2
+    - [x] Q1
+    - [x] Q2
     - [ ] Q3
     - [ ] Q4
     - [ ] Q5
