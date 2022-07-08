@@ -45,7 +45,11 @@ st.markdown("""
 (1) Parents want to know how quickly they master techniques.
 (2) Offer gamification features that encourage learners to practise more.
 (3) Get the improvement from the histogram
-   - Violin have 4 string, G, D, A, E string. If all of 4 notes playing are too low or high in a string, it means that 
+   - Violin have 4 string, G3, D4, A4, E5 string. If all of 4 notes playing are too low or high in a string, for example, the notes in G3
+   - If the pitch of G3 is wrong, it means user need to tuning his/her string.
+   - If the pitch of D4, A4, E5 is/are wrong, it means user may need to tuning his/her string. (Since D4, A4, E5 has another fingering)
+   - More suggestion can added, details here:
+     https://www.sixmonthsrebellion.com/en/blog/posts/「小提琴」搞定這5個方法，小提琴音準沒問題！-「violin」get-these-5-methods-the-violin-pitch-is-no-problem！
 For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
 
 
