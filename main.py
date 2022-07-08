@@ -9,16 +9,22 @@ st.set_page_config(
 
 perc = st.empty()
 bar = st.progress(0)
+
 for i in range(100):
-    perc.text(f'current {i+1} %')
+    perc.text(f'current {i + 1} %')
     bar.progress(i + 1)
-    
+
 time.sleep(1)
-    
+
 perc.empty()
 bar.empty()
 
-st.markdown("### AirMusic ")
+col1, mid, col2 = st.columns([1, 1, 20])
+with col1:
+    st.image('brand/company_log.png', width=60)
+with col2:
+    st.markdown("### AirMusic ")
+
 st.markdown("###### The Perfect Companion for Music Practice ")
 st.markdown('---')
 st.markdown('#### Statement:')
@@ -151,7 +157,5 @@ st.markdown("""
 1) Comparing the before-and-after histogram to show the similarity between sample version and practice verison by user.
 
 """)
-
-
 
 st.markdown("last Update: July 7, 2022 15:06")
