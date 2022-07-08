@@ -12,6 +12,14 @@
     - [ ] user to use metronome for now
     - [ ] July 15
 
+Company Website: https://www.air-music.app
+AirMusic App as  Website: https://air-music-e723c.web.app/#/
+IOS App: 
+
+---
+Dev log
+July 8, 2022 2:45 PM Started Ui testing
+
 ---
 
 - [ ] Viewing the suggestions list inside inbox.py
