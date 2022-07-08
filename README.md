@@ -14,8 +14,6 @@
 - [ ] Music Generation with Violin
     - [ ] Assign to the team to work on with Sample
     - [x] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use the trained .pth model later.
-- [ ] Fix all the files name in the 'streamlit_data/app_course'
-    - [ ] Course preview given bad file name
 - [ ] Fix the ABTesting
     - [ ] Some Shit about the types for compare values
 
@@ -32,7 +30,8 @@ Play MIDI
 
 ### Done
 - [ x] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
--
+- [x] Fix all the files name in the 'streamlit_data/app_course'
+    - [x] Course preview given bad file name
 
 # Use Docker to run
 
