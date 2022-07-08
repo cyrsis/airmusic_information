@@ -68,7 +68,7 @@ For the musicautobot.music_transformer dataloader.py, the fastai.text.data has n
 ##### Victor: Sounds pretty good to me, try to demo it
 
 (4) Slow down/accerlerate function
-- When user want to change the speed of practice/grading test record, for example, slow down the speed for beginner to ensure the accuracy of pitch and rhythm, or accerlerate the speed when the user want to challenge his/herself.
+- When user want to change the speed of practice/grading test, for example, 1) slow down the speed for beginner to ensure the accuracy of pitch and rhythm and familiar the piece, or 2) accerlerate the speed when the user want to challenge his/herself.
 - Idea: 
 - situation 1) if the piece is progressed by time, expend or shorten the time-used of the piece. 
 - situation 2) if the piece is progressed pitch by pitch, it would be more dificult. 
