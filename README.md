@@ -10,7 +10,7 @@
     - [ ] Assign to the team to work on with Sample
 - [ ] Music Generation with Violin
     - [ ] Assign to the team to work on with Sample
-    - [x] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use the trained .pth model later.
+    - [ ] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use the trained .pth model later.
 - [ ] Fix the ABTesting
     - [ ] Some Shit about the types for compare values
 
