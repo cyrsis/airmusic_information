@@ -28,6 +28,7 @@
     - [ ] Work on the EDA for the xml, Colab then u can get it started
 - [ ] Music Generation with Violin
     - [ ] Ask Sam to for the Violin demo
+    - Dear Victor: We decide to get the demo next week. Sam will record the demo by himself.
     - [x] Ask Sam to for the Violin experience
     - [ ] Imoprovement report
     - [ ] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use
