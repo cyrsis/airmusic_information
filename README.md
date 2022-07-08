@@ -16,7 +16,8 @@
     - [ ] Assign to the team to work on with Sample
     - [ ] Work on the EDA for the xml, Colab then u can get it started
 - [ ] Music Generation with Violin
-    - [ ] Ask Sam to for the Violin demo and experience
+    - [ ] Ask Sam to for the Violin demo
+    - [x] Ask Sam to for the Violin experience
     - [ ] Imoprovement report
     - [ ] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use
       the trained .pth model later.
