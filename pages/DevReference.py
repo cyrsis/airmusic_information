@@ -18,4 +18,7 @@ st.markdown('---')
 st.markdown(f'##### Company Reference')
 streamlitLink = '[Company Linkedin](https://www.linkedin.com/company/air-music-alliance-limited/)'
 st.markdown(streamlitLink, unsafe_allow_html=True)
+
+streamlitLink = '[Company Website](https://www.air-music.app/)'
+st.markdown(streamlitLink, unsafe_allow_html=True)
 st.markdown('---')

@@ -37,7 +37,6 @@ music = \relative {
 }
 ''')
 
-
 ## Try to display the Music Sheet in here
 s = converter.parse('streamlit_data/app_course/Concertino_in_D_Op15_3rd.mxl')
 st.set_option('deprecation.showPyplotGlobalUse', False)
@@ -50,3 +49,7 @@ st.write("Histogram-PitchSpace-count")
 st.set_option('deprecation.showPyplotGlobalUse', False)
 fig = p.run()
 st.pyplot(fig)
+
+st.markdown('---')
+st.markdown('### Inside of the XML')
+st.text(Path('streamlit_data/app_course/Sonata_in_G_3rd_mvt.musicxml').read_text())
