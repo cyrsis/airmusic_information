@@ -81,9 +81,13 @@ st.markdown("""
 ##### Measuring performance
 
 1)	Assuming regular rhythm, then each note can be matched for accuracy of pitch-name and/or intonation. Intonation errors may be anywhere from one cent (1/100 of a semitone) to 99 cents (anything over 100 will be wrong pitch rather than poor intonation).
-
+   
+   - Using something like tuner. To measure how it apart away from true pitch. Quantified it. Value between two half is 100.
+  
 2)	If the score on-screen shows these two different errors with differently coloured circles around the wrong notes the user can quickly see which they need to improve (e.g. red = wrong pitch, yellow = bad tuning).
 
+   - Using something like tuner. Just previous suggestion, if the Quantified value between the actual pitch and user's pitch < 100, then yellow. If >= 100, then red.
+   
 3)	If the player sets a metronome tempo, the app can presumably adjust its in-built tempo for the stored music, and track each note in real time; if the player simply plays and expects the app to respond when it works out the tempo, it may take some notes or bars before the results can be shown.
 
 4)	If the player does not play with regular rhythm then the tempo is a minor problem! This situation creates real difficulties, I think, for the app accurately to track the errors of pitch, especially if the player misplays note-lengths and causes distortion to the number of notes per bar and number of bars altogether.
