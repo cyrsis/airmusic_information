@@ -51,6 +51,7 @@ st.markdown("""
    - If the pitch of G3 is wrong, it means user need to tuning his/her string.
    - If the pitch of D4, A4, E5 is/are wrong, it means user "may" need to tuning his/her string. (Since D4, A4, E5 has another fingering)
    - Also take G3 string as an example, if A3 do not wrong with B3 wrong and C4 wrong (or even wrong more), it means that the users' arm (手肘) may touch the violin neck (琴頸). It is the same for all main string.
+   - If the notes higher that B5 always go wrong, it means that the shifting technique of users should be improve.
    - More suggestion can added, details here:
      https://www.sixmonthsrebellion.com/en/blog/posts/「小提琴」搞定這5個方法，小提琴音準沒問題！-「violin」get-these-5-methods-the-violin-pitch-is-no-problem！
      
