@@ -19,10 +19,10 @@ st.markdown("""
 2. Play too fast or slow for the rhythms.
 - Idea: If the pitch of the note is change in the next time step, note that as 1. Otherwise, note that as 0. Then, compare the 0/1 pattern to find out the rhythms is true or not.
 - Problems: Can not detect the rhythms with the same notes in near time step.
+- Reference: Music Rhythm Detection Algorithm Based on Multipath Search and Cluster Analysis, https://www.hindawi.com/journals/complexity/2021/5627626/#related-work
 
 ##### Victor -> if we token (crop) the song, can we compare the length?
-###### Reply: we would like to ask whats 'length' is stand for, 
-yet crop the song into parts can be easier to identify the length of rhythms, like tuplet. 
+###### Reply: we would like to ask whats 'length' is stand for, yet crop the song into parts can be easier to identify the length of rhythms, like tuplet. 
 
 
 ##### Additional ideas to Main.
@@ -67,13 +67,22 @@ For the musicautobot.music_transformer dataloader.py, the fastai.text.data has n
 
 ##### Victor: Sounds pretty good to me, try to demo it
 
+(4) Slow down/accerlerate function
+- When user want to change the speed of practice/grading test record, for example, slow down the speed for beginner to ensure the accuracy of pitch and rhythm, or accerlerate the speed when the user want to challenge his/herself.
+- Idea: 
+- situation 1) if the piece is progressed by time, expend or shorten the time-used of the piece. 
+- situation 2) if the piece is progressed pitch by pitch, it would be more dificult. 
+- Reference: AudioSegment. https://medium.com/prog-ramming-solutions/python-music-playback-speed-1x-2x-3x-change-without-chipmunk-effect-890eb10826c1
+
+
+
 """)
 
 st.markdown('---')
 
 st.markdown("""
 
-##### Links for Music21 .show situation:
+##### Links for Music21 .show() situation:
 https://groups.google.com/g/music21list/c/wcUsuqvbpUQ
 https://colab.research.google.com/drive/17Fql7pyK3xsO8KmZorvb1tBoPomidCPB#scrollTo=TxLlKkizXMMG
 
@@ -95,16 +104,14 @@ st.markdown("""
    
 3)	If the player sets a metronome tempo, the app can presumably adjust its in-built tempo for the stored music, and track each note in real time; if the player simply plays and expects the app to respond when it works out the tempo, it may take some notes or bars before the results can be shown.
 
-   - Adjust the playing speed by midi...
+   - Generate music by midi with different speed 
    
 4)	If the player does not play with regular rhythm then the tempo is a minor problem! This situation creates real difficulties, I think, for the app accurately to track the errors of pitch, especially if the player misplays note-lengths and causes distortion to the number of notes per bar and number of bars altogether.
    
-   - 
+   -
    
 5)	To assess rhythmic errors (ignoring pitch errors for now) the app has to recognise a “right” note played for too short or too long a duration. Also, if the player is simply badly out of time and cannot maintain steady pulse, the app needs to be abl to adjust in some way so it can make a valid response on the rhythmic accuracy.
-   
-   - 
-   
+
 6)	Music notation programmes do often include a realtime play-in facility and interpret the player’s performance into notation which fits the set time-signature – maybe this is a clue to how to deal with this issue?
 
 
