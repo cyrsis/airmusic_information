@@ -2,15 +2,18 @@
 
 ### TO DO:
 
+- [ ] Need to draft up the scope and what need to be deliver
 - [ ] Victor make a RC APK for the internal testing
-  - [ ] higher or lower in the score?
-  - [ ] comparing frequency
-  - [ ] circle the note that is higher / lower
-  - [ ] user to use metronome for now
-  - [ ] July 15
+    - [ ] Need Tim & Sam Phone information 
+    - for testing the app , google play account/ appstore id
+    - [ ] higher or lower in the score?
+    - [ ] comparing frequency
+    - [ ] circle the note that is higher / lower
+    - [ ] user to use metronome for now
+    - [ ] July 15
 
 ---
-  
+
 - [ ] Viewing the suggestions list inside inbox.py
     - [x] Q1
     - [x] Q2
@@ -43,14 +46,13 @@
 Play MIDI
 
 ### Done
-
+- [x] Assume team can work independently - July 8, 2022 1:40 PM
 - [x] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
 - [x] Fix all the files name in the 'streamlit_data/app_course'
     - [x] Course preview given bad file name
 - [x] Merge the idea into the document, (Pitch & Docs)
     - [x] listing the points of PitchDeck.
 - [x] Study the Docker for the app.
-
 
 ---
 

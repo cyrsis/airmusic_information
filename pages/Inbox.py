@@ -8,11 +8,12 @@ st.markdown("""
 1. Play too high or low in pitch.
 - Plan A: Comparing the user's recording with the sample piece and selecting the difference among them. Data are digitalized.
 
-##### Victor -> So we plan to use mp3 to the pitch? or use the pitch result from the App?
-##### Both resolution can work, which one is easier?
-######  Reply: No sure the time use (and pressure) for mp3 convert to pitch notes. If time consuming is not high, second one maybe more acc but too trouble.
+##### Victor give u  the pitch in time series format
+-C# July 8, 2022 1:36 PM
+-A July 8, 2022 1:36 PM
 
-- Plan B: Using music21 to read the piece and generate the demo of the performance. Then, comparing the user's performance with music21's sample. (this can be a solution for tuner.)
+- Plan B: Using music21 to read the piece and generate the demo of the performance. 
+Then, comparing the user's performance with music21's sample. (this can be a solution for tuner.)
 ---
 
 2. Play too fast or slow for the rhythms.
@@ -20,7 +21,8 @@ st.markdown("""
 - Problems: Can not detect the rhythms with the same notes in near time step.
 
 ##### Victor -> if we token (crop) the song, can we compare the length?
-###### Reply: we would like to ask whats 'length' is stand for, yet crop the song into parts can be easier to identify the length of rhythms, like tuplet. 
+###### Reply: we would like to ask whats 'length' is stand for, 
+yet crop the song into parts can be easier to identify the length of rhythms, like tuplet. 
 
 
 ##### Additional ideas to Main.
@@ -44,11 +46,12 @@ st.markdown("""
 (1) Adding animation:
 - using Lottie in Streamlit and design a animation for 
   AirMusic Icon/Logo. It can be an eye-catching image when user visit the webpage.
+  ##### Victor : Streamlit is design for internal USE only, it was for us to demo ideas in data science way
 
 ##### Think more about how to do it.
 (1) Parents want to know how quickly they master techniques.
 (2) Offer gamification features that encourage learners to practise more.
-
+ - Planned -> Would add it when we have scope
 (3) Get the improvement from the histogram (if the histogram shows the users whare get wrong)
    - Violin have 4 main string, G3, D4, A4, E5 string. If all of basic 3 continuous notes playing are too low or high in a string, for example, the notes in G3 are all go wrong...
    They are A3, B3, C4, it turns out that the positions of the users' hand may be wrong. It is the same for all main string. The hand is too near your body if the pitch is too high.
@@ -61,6 +64,7 @@ st.markdown("""
      
 For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now.
 
+##### Victor: Sounds pretty good to me, try to demo it
 
 """)
 
