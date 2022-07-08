@@ -17,6 +17,7 @@
     - [ ] Work on the EDA for the xml, Colab then u can get it started
 - [ ] Music Generation with Violin
     - [ ] Ask Sam to for the Violin demo and experience
+    - [ ] Imoprovement report.
     - [ ] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use
       the trained .pth model later.
 - [ ] Fix the ABTesting
@@ -35,11 +36,13 @@ Play MIDI
 
 ### Done
 
-- [ x] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
+- [x] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
 - [x] Fix all the files name in the 'streamlit_data/app_course'
     - [x] Course preview given bad file name
 - [x] Merge the idea into the document, (Pitch & Docs)
     - [x] listing the points of PitchDeck.
+- [x] Study the Docker for the app.
+
 
 ---
 
