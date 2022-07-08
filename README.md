@@ -11,6 +11,13 @@
 
 ---
   
+- [ ] Solve the problems list inside inbox.py
+    - [ ] Q1
+    - [ ] Q2
+    - [ ] Q3
+    - [ ] Q4
+    - [ ] Q5
+    - [ ] Q6
 - [ ] Get Tim the Mac
 - [ ] Organize the Appcourse
     - [ ] Assign to the team to work on with Sample
@@ -23,7 +30,6 @@
       the trained .pth model later.
 - [ ] Fix the ABTesting
     - [ ] Some Shit about the types for compare values
-
 ---
 
 #### The fun part
