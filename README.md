@@ -4,21 +4,26 @@
 
 - [ ] Need to draft up the scope and what need to be deliver
 - [ ] Victor make a RC APK for the internal testing
-    - [ ] Need Tim & Sam Phone information 
+    - [ ] Need Tim & Sam Phone information
     - for testing the app , google play account/ appstore id
     - [ ] higher or lower in the score?
     - [ ] comparing frequency
     - [ ] circle the note that is higher / lower
     - [ ] user to use metronome for now
     - [ ] July 15
+    - The Schedule for local Alarm
+- Fix the Android permission for voice recording
+- Play the Record Music
+- Read the Note out
+- Display the Note in different Speed
+- Practice by Grade
 
 Company Website: https://www.air-music.app
-AirMusic App as  Website: https://air-music-e723c.web.app/#/
-IOS App: 
+AirMusic App as Website: https://air-music-e723c.web.app/#/
+IOS App:
 
 ---
-Dev log
-July 8, 2022 2:45 PM Started Ui testing
+Dev log July 8, 2022 2:45 PM Started Ui testing
 
 ---
 
@@ -29,7 +34,7 @@ July 8, 2022 2:45 PM Started Ui testing
     - [ ] Q4
     - [ ] Q5
     - [ ] Q6
-   
+
 - [ ] Get Tim the Mac
 - [ ] Organize the Appcourse
     - [ ] Assign to the team to work on with Sample
@@ -43,6 +48,7 @@ July 8, 2022 2:45 PM Started Ui testing
       the trained .pth model later.
 - [ ] Fix the ABTesting
     - [ ] Some Shit about the types for compare values
+
 ---
 
 #### The fun part
@@ -55,6 +61,7 @@ July 8, 2022 2:45 PM Started Ui testing
 Play MIDI
 
 ### Done
+
 - [x] Assume team can work independently - July 8, 2022 1:40 PM
 - [x] Assign the Team to work on the company goal - July 6, 2022 7:37 AM
 - [x] Fix all the files name in the 'streamlit_data/app_course'
