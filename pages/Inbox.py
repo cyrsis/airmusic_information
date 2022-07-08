@@ -95,8 +95,12 @@ st.markdown("""
    
 3)	If the player sets a metronome tempo, the app can presumably adjust its in-built tempo for the stored music, and track each note in real time; if the player simply plays and expects the app to respond when it works out the tempo, it may take some notes or bars before the results can be shown.
 
+   - Generate music by midi with different speed 
+   
 4)	If the player does not play with regular rhythm then the tempo is a minor problem! This situation creates real difficulties, I think, for the app accurately to track the errors of pitch, especially if the player misplays note-lengths and causes distortion to the number of notes per bar and number of bars altogether.
-
+   
+   -
+   
 5)	To assess rhythmic errors (ignoring pitch errors for now) the app has to recognise a “right” note played for too short or too long a duration. Also, if the player is simply badly out of time and cannot maintain steady pulse, the app needs to be abl to adjust in some way so it can make a valid response on the rhythmic accuracy.
 
 6)	Music notation programmes do often include a realtime play-in facility and interpret the player’s performance into notation which fits the set time-signature – maybe this is a clue to how to deal with this issue?
