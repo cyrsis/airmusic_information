@@ -1,18 +1,20 @@
 # airmusic_information
 
-## Two major problem
-
-#### For Sam , Tim
-
-#### Which one is done?
-
 ### TO DO:
 
-- [ ] Victor make a APK for the internal testing
-- [ ] Get Tim the Mac 
+- [ ] Victor make a RC APK for the internal testing
+  - [ ] higher or lower in the score?
+  - [ ] comparing frequency
+  - [ ] circle the note that is higher / lower
+  - [ ] user to use metronome for now
+  - [ ] July 15
+
+---
+  
+- [ ] Get Tim the Mac
 - [ ] Organize the Appcourse
     - [ ] Assign to the team to work on with Sample
-    - [ ] Work on the EDA for the xml
+    - [ ] Work on the EDA for the xml, Colab then u can get it started
 - [ ] Music Generation with Violin
     - [ ] Ask Sam to for the Violin demo and experience
     - [ ] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use
@@ -38,6 +40,8 @@ Play MIDI
     - [x] Course preview given bad file name
 - [x] Merge the idea into the document, (Pitch & Docs)
     - [x] listing the points of PitchDeck.
+
+---
 
 # Use Docker to run
 
