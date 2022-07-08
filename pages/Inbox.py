@@ -47,6 +47,7 @@ yet crop the song into parts can be easier to identify the length of rhythms, li
 - using Lottie in Streamlit and design a animation for 
   AirMusic Icon/Logo. It can be an eye-catching image when user visit the webpage.
   ##### Victor : Streamlit is design for internal USE only, it was for us to demo ideas in data science way
+  ###### Reply: we got it. This was what we had suggested before the progress/work started.  
 
 ##### Think more about how to do it.
 (1) Parents want to know how quickly they master techniques.
