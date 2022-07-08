@@ -95,4 +95,4 @@ st.markdown("""
 
 """)
 
-st.markdown('last update 8/7 11:16')
+st.markdown('last update 8/7 11:51')
