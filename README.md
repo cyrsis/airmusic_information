@@ -36,7 +36,7 @@ Dev log July 8, 2022 2:45 PM Started Ui testing
     - [ ] Q6
 
 - [x] Get Tim the Mac
-    - [ ] Tim: get use to it. (new stuffs to me)  
+    - [ ] Tim: get use to it. 
 - [ ] Organize the Appcourse
     - [ ] Assign to the team to work on with Sample
     - [ ] Work on the EDA for the xml, Colab then u can get it started
