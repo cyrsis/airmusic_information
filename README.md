@@ -30,12 +30,12 @@ Dev log July 8, 2022 2:45 PM Started Ui testing
 - [ ] Viewing the suggestions list inside inbox.py
     - [x] Q1
     - [x] Q2
-    - [ ] Q3
-    - [ ] Q4
-    - [ ] Q5
+    - [x] Q3
+    - [x] Q4
+    - [x] Q5
     - [ ] Q6
 
-- [ ] Get Tim the Mac
+- [x] Get Tim the Mac
 - [ ] Organize the Appcourse
     - [ ] Assign to the team to work on with Sample
     - [ ] Work on the EDA for the xml, Colab then u can get it started
