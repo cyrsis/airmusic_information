@@ -112,7 +112,9 @@ st.markdown("""
    
 5)	To assess rhythmic errors (ignoring pitch errors for now) the app has to recognise a “right” note played for too short or too long a duration. Also, if the player is simply badly out of time and cannot maintain steady pulse, the app needs to be abl to adjust in some way so it can make a valid response on the rhythmic accuracy.
 
-   - 
+   - is it difficult to track every rhythm, but some online examples have been found and it can be reference for the idea/method.
+   - Reference: https://essentia.upf.edu/tutorial_rhythm_beatdetection.html
+   - https://essentia.upf.edu/streaming_extractor_music.html
 
 6)	Music notation programmes do often include a realtime play-in facility and interpret the player’s performance into notation which fits the set time-signature – maybe this is a clue to how to deal with this issue?
    
