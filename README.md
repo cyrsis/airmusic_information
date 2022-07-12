@@ -12,11 +12,11 @@
     - [ ] user to use metronome for now
     - [ ] July 15
     - The Schedule for local Alarm
-- Fix the Android permission for voice recording
-- Play the Record Music
-- Read the Note out
-- Display the Note in different Speed
-- Practice by Grade
+    - Fix the Android permission for voice recording
+    - Play the Record Music
+    - Read the Note out
+    - Display the Note in different Speed
+    - Practice by Grade
 
 Company Website: https://www.air-music.app
 AirMusic App as Website: https://air-music-e723c.web.app/#/
@@ -44,7 +44,7 @@ Dev log July 8, 2022 2:45 PM Started Ui testing
     - [ ] Ask Sam to for the Violin demo
     - Dear Victor: We decide to get the demo. Sam will record the demo by himself.
     - [x] Ask Sam to for the Violin experience
-    - [ ] Imoprovement report
+    - [ ] Improvement report
     - [ ] For the musicautobot.music_transformer dataloader.py, the fastai.text.data has not class LMLabelList now. Use
       the trained .pth model later.
 - [ ] Fix the ABTesting
