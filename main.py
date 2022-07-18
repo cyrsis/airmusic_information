@@ -140,7 +140,7 @@ Remarks:
 
 [1] Gamification features will be discuss after the app is done and the efficiency of the app is high enough. Otherwise, gamification features may cause time-consumed situation.
 
-[2] Idea: serivce for a specific instrument (violin, piano, flute...) or orchestras and choirs as a whole.
+[2] Idea: service for a specific instrument (violin, piano, flute...) or orchestras and choirs as a whole.
 
 [3] It is necessary to study the differences between Western instrument and Chinese instrument, depend on the sound waves and amplitudes produced are independent or not. Then, new database might need to build.
 
